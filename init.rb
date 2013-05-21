@@ -1,1 +1,1 @@
-require 'lib/heroku/command/django'
+require 'heroku/command/django'
